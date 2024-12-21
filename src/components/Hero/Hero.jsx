@@ -35,7 +35,7 @@ const Hero = () => {
               <span className="text-primary">Yasmine OUKEMOUM</span>
               <br />
               {/* Apply the typing effect to each character of the following text */}
-              {splitText("Full-stack developer | AI Enthusiast | Graphic Design Beginner")}
+              {splitText("Full-stack developer | AI Enthusiast ")}
             </motion.h1>
 
           <p className="text-gray-500 lg:max-w-[500px] mt-4">
